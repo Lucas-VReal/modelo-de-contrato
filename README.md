@@ -4,41 +4,21 @@
 
 ## Sobre
 
-Falando francamente, acredito que é bem complicado criar um documento deste tipo. Em se tratando de freelancer, como eu, muitas vezes nos deparamos fazendo projetos sem ao menos receber um valor de sinal. É... sei que é errado, mas quem nunca fez isto? Não responda hehe.
-
-Existem muitos modelos disponíveis na internet, entretanto, muitas vezes não se enquadram no tipo de documento que precisamos. Enfim, esta semana, um desenvolvedor publicou em uma comunidade no [Facebook](https://www.facebook.com/) um post solicitando um **Modelo de Contrato de Prestação de Serviços**. Então eu pensei.... pow, podemos criar algo e deixar disponível para que todos possam utilizar, contribuir, alterar... enfim, aqui estamos!
-
-> Este **Modelo de Contrato** é apenas um exemplo e talvez não se encaixe no que você está procurando. Lembrando que é fundamental que você procure um **ADVOGADO** para lhe auxiliar na formalização do contrato.
+Este modelo foi desenvolvido por APSantos-Dev e irei utilizá-lo para formalizar contratos de prestação de serviço nas plataformas de intermediação.
 
 ## Arquivo
 
-> O *Modelo de Contrato* está disponível em: [./assets/docs/modelo-de-contrato.md](./assets/docs/modelo-de-contrato.md).
-
-Status: `em revisão`
+> O *Modelo de Contrato* está disponível em: [Clique aqui para acessar o modelo](./assets/docs/modelo-de-contrato.md).
 
 Release: `1.0.3`
 
-= ]
-
 ## Inspiração
 
-Este **Modelo de Contrato** foi baseado em vários outros modelos disponíveis na internet e também algumas experiências minha com desenvolvimento de alguns projetos. \o/
+Este **Modelo de Contrato** foi baseado em vários outros modelos disponíveis na internet.
 
 ## Autor
 
 * **[APSantos-Dev](https://github.com/APSantos-Dev)**
-
-## Contribuição
-
-Contribua para que este **Modelo de Contrato** se torne melhor. \o/
-
-1. *Fork!*
-2. Crie sua *feature branch*: `git checkout -b minhaNovaFeature`
-3. Confirme as alterações: `git commit -am 'Adicione algum comentário'`
-4. Envie sua *branch*:  `git push origin minhaNovaFeature`
-5. Envie uma solicitação de *pull request*.
-
-= ]
 
 ## Versão
 
